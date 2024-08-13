@@ -1,0 +1,17 @@
+.error {
+    padding: 2rem;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .error h1 {
+    color: #ff4081;
+    margin-bottom: 1.5rem;
+  }
+  
+  .error p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  

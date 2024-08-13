@@ -1,0 +1,11 @@
+.users {
+    padding: 2rem;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .users h1 {
+    margin-bottom: 1.5rem;
+  }
+  

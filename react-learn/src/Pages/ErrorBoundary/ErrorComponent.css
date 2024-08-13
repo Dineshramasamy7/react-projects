@@ -1,0 +1,16 @@
+.errordiv {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .error-fallback {
+    color: red;
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
