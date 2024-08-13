@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background: grey;
+    padding: 5px 50px;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    list-style-type: none;
+    color: white;
+}
+nav ul li{
+    cursor: pointer;
+}
